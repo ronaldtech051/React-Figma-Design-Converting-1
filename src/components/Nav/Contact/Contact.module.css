@@ -1,7 +1,9 @@
 .contact h1{
     font-weight: 800;
+    padding: 30px;
 }
 
 .contact p {
     font-weight: 600;
+    padding: 50px;
 }
