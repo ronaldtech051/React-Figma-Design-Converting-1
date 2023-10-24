@@ -38,7 +38,6 @@ ul {
 
 .toggleButton {
     display: none;
-    /* Hide the toggle button by default on desktop */
 }
 
 @media (max-width: 768px) {
