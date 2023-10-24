@@ -8,6 +8,8 @@
     border: #93f3f3;
     border-radius: 50px;
     color: white;
+    margin-left: 20px;
+    cursor: pointer;
 }
 
 .nav {
@@ -32,11 +34,6 @@ ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
-}
-
-li {
-    margin-left: 20px;
-    cursor: pointer;
 }
 
 .toggleButton {
